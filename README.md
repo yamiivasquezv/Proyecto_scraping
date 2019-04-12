@@ -7,7 +7,7 @@ Especificaciones Técnicas para CentOS7
 
 1. Instalar python 3.4 (si no lo tienes):
 
-sudo yum install wget -y
+        sudo yum install wget -y
     
     wget https://www.python.org/ftp/python/3.4.3/Python-3.4.3.tar.xz
     
@@ -54,7 +54,7 @@ ejecute el siguiente comando:
 
 3. Instalar los paquetes requests, smtplib, pysftp, textblob y nltk con el siguiente comando:
 
-    sudo pip3.4 install PACKAGE_NAME
+        sudo pip3.4 install PACKAGE_NAME
 
 -Para desintalar algún paquete ejecute el comando:
 
