@@ -7,7 +7,7 @@ Especificaciones Técnicas para CentOS7
 
 1. Instalar python 3.4 (si no lo tienes):
 
-        sudo yum install wget -y
+  sudo yum install wget -y
     
     wget https://www.python.org/ftp/python/3.4.3/Python-3.4.3.tar.xz
     
