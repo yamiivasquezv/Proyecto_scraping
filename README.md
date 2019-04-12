@@ -63,6 +63,7 @@ ejecute el siguiente comando:
 MANUAL DE USUARIO PARA EL PROGRAMA:
 
 1. Crear un archivo .txt con el nombre de su preferencia el cual será la plantilla donde se almacenarán los datos obtenidos del análisis. Dicha plantilla tendrá el siguiente formato:
+
 *****************************INICIO DEL FORMATO DE LA PLANTILLA****************************
 ¡Hola ${NOMBRE_PERSONA}!
 
@@ -79,6 +80,7 @@ Milka Search Engine.
 
 
 *****************************FIN DEL FORMATO DE LA PLANTILLA****************************
+
 2. Sustituir las variables:
 
 ARCHIVO_PLANTILLA = *poner aquí la ruta hacia el archivo .txt creado*
